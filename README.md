@@ -2,7 +2,7 @@
 It is actually created by @EdRoh , I have made some differences and added some more features to it
 
 
-# Connect
+
 install node &
 use this cmd - npm -i(in client folder and server folder too.... )
 #
