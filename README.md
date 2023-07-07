@@ -11,7 +11,9 @@ create  .env file and upload the db url of mongo db
 eg:
 
 MONGO_URL="change this to db url of mongo db"
+
 JWT_SECRET='somesuperhardstringtoguess'
+
 PORT =3001
 #
 to run the prgm - 
