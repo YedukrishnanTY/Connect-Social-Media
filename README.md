@@ -1,5 +1,5 @@
 # Connect-Social-Media
-It is actually created by @EdRoh , i have made some differences and added some more features to it
+It is actually created by @EdRoh , I have made some differences and added some more features to it
 
 
 # Connect
