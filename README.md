@@ -6,7 +6,13 @@ It is actually created by @EdRoh , I have made some differences and added some m
 install node &
 use this cmd - npm -i(in client folder and server folder too.... )
 #
-checkout the .env file and upload the db url of mongo db
+create  .env file and upload the db url of mongo db
+
+eg:
+
+MONGO_URL="change this to db url of mongo db"
+JWT_SECRET='somesuperhardstringtoguess'
+PORT =3001
 #
 to run the prgm - 
 
