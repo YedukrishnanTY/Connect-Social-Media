@@ -3,7 +3,7 @@ It is actually created by @EdRoh , I have made some differences and added some m
 
 
 # Connect
-install node 
+install node &
 use this cmd - npm -i(in client folder and server folder to.... )
 checkout the .env file and upload the db url of mongo db
 
