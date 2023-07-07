@@ -2,7 +2,7 @@
 It is actually created by @EdRoh , i have made some differences and added some more features to it
 
 
-# connect
+# Connect
 install node 
 use this cmd - npm -i(in client folder and server folder to.... )
 checkout the .env file and upload the db url of mongo db
