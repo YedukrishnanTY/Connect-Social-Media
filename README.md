@@ -2,6 +2,10 @@
 It is actually created by @EdRoh , I have made some differences and added some more features to it
 
 
+admin login id - admin@gmail.com 
+
+password - admin@123 (if you want to change it , you can do it in the code(login.jsx))
+
 
 install node &
 use this cmd - npm -i(in client folder and server folder too.... )
