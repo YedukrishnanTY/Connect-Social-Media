@@ -8,7 +8,7 @@ password - admin123 (if you want to change it , you can do it in the code(form.j
 
 
 install node &
-use this cmd - npm -i(in client folder and server folder too.... )
+use this cmd - npm -i (in client folder and server folder too.... )
 #
 create  .env file in server folder with this content :
 
