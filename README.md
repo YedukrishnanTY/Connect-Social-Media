@@ -1,5 +1,5 @@
 # Connect-Social-Media
-It is actually created by @EdRoh , I have made some differences and added some more features to it
+It is actually created by @Ed-Roh , I have made some differences and added some more features to it
 
 
 admin login id - admin@gmail.com 
