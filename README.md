@@ -4,7 +4,7 @@ It is actually created by @EdRoh , I have made some differences and added some m
 
 admin login id - admin@gmail.com 
 
-password - admin@123 (if you want to change it , you can do it in the code(login.jsx))
+password - admin123 (if you want to change it , you can do it in the code(form.jsx))
 
 
 install node &
