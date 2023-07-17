@@ -1,10 +1,14 @@
 # Connect-Social-Media
-It is actually created by @EdRoh , I have made some differences and added some more features to it
+It is actually created by @Ed-Roh , I have made some differences and added some more features to it
 
+
+admin login id - admin@gmail.com 
+
+password - admin123 (if you want to change it , you can do it in the code(form.jsx))
 
 
 install node &
-use this cmd - npm -i(in client folder and server folder too.... )
+use this cmd - npm -i (in client folder and server folder too.... )
 #
 create  .env file in server folder with this content :
 
