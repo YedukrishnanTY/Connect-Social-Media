@@ -5,7 +5,7 @@ It is actually created by @Ed-Roh , I have made some differences and added some 
 admin login id - admin@gmail.com 
 
 password - admin123 (if you want to change it , you can do it in the code(form.jsx))
-
+(If you're changing it ,please add the same data to db through registration.)
 
 install node &
 use this cmd - npm -i (in client folder and server folder too.... )
