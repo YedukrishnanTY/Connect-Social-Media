@@ -140,6 +140,22 @@ export const users = [
     updatedAt: 1359322268,
     __v: 0,
   },
+  {
+    _id: userIds[8],
+    firstName: "Admin",
+    lastName: "Panel",
+    email: "admin@gmail.com",
+    password: "$2b$10$KOOHnKxsNYSymllieTOZJepvJ0R/R3kSW4ORKd4G8GNEOHtOTzPbm",
+    picturePath: "p11.jpeg",
+    friends: [],
+    location: "Kerala",
+    occupation: "Admin",
+    viewedProfile: 19420,
+    impressions: 82970,
+    createdAt: 1369908044,
+    updatedAt: 1359322268,
+    __v: 0,
+  },
 ];
 
 export const posts = [
